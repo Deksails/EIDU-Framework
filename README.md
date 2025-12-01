@@ -13,8 +13,6 @@ EIDU（Emergent-Information-Driven Universe）是一套以“信息”为根基�
 
 EIDU 的目标不是替代现有物理学，而是提供一个更底层的“信息本体层”，在此之上现代物理可以作为“有效理论”自然涌现。
 
-
-
 项目结构（Project Structure）
 
 docs/ # 理论文件与版本文档
@@ -28,8 +26,6 @@ docs/ # 理论文件与版本文档
 models/ # 模型、图示、结构草图
 notes/ # 草稿和灵感记录
 drafts/ # 尚未整理的章节草稿
-
-
 
 文档简介（Documentation Overview）
 
@@ -52,14 +48,10 @@ EIDU 的文档大体分为三层结构：
 - 黑洞结构与信息密度有关  
 - 光速等价于“单位信息最大更新率”
 
-
-
 当前版本（Current Version）
 
 当前文档版本：**V1.1（正在编写）**  
 这是对 V1.0 “占位版本”的系统整合，包含新的公理结构与信息论解释。
-
-
 
 项目目标（Project Goals）
 
@@ -68,12 +60,8 @@ EIDU 的文档大体分为三层结构：
 - 建立 EIDU 的数学模型与演化机制  
 - 创建一个长期演化的公开理论体系  
 
-
-
 License
 本项目使用 **CC BY 4.0** 协议。
-
-
 
 联系与讨论（Contact）
 如果你想对 EIDU 理论提出建议或交流，可以在 Issues 中留言。

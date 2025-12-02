@@ -23,6 +23,9 @@ Models/                    # 模型、图示、结构草图
 Published_Versions/        # 已发布版本归档
 Drafts/                    # 尚未整理的章节草稿
 Ideas_RAW/                 # 原始思路和类比
+Divergence Mechanisms/     # 本文件夹用于存放 EIDU 框架中尚未决定、存在多种可行解释路径的关键机制。
+                             这些机制在 Pre-Alpha 阶段不应被纳入公理，而应被明确记录、对比、保留，以便未来在 Alpha（数学化）阶段逐步约束，或在 Beta 阶段正式分裂为理论分支。
+                             Divergence 的存在是理论演化空间的必要结构，而非混乱。
 
 ```
 # Documentation Overview | 文档概览
